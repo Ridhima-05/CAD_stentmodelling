@@ -9,4 +9,13 @@ List of Projects:
 - Currently in the process of printing a scaled model using FDM printers (PLA polymer)
 - Slicing software used: UltiMaker Cura
 
-  2] Statistical analysis of Patient data
+  2] End-of-Line Camera Assembly
+  - Function: To reduce inspection time
+  - Used to verify placement of chips on PCB at the end of Surface Mounting Tech line 
+  - Design to scale using components available.
+  - Camera models are placeholders (original models not used for proprietary sake)
+
+  3] Plate spacer assembly
+  - Function: Reduce operator/ engineer time taken to replace templates for different products
+  - Spaced plates physically on heat stakers
+  - Main components intended to be CNC machined
